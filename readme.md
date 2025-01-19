@@ -26,3 +26,6 @@ git push -u origin main        # or next time just run git push
 
 
 ### Development
+1. Stage > git add .
+2. Commit > git commit -m "message"
+3. Push > git push
